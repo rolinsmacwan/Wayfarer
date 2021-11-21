@@ -1,3 +1,3 @@
 # Wayfarer
-Submission for Techfest Webweaver
+
 Final submission was not ready yet...Content will add soon...
